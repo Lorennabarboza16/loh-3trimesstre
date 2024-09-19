@@ -9,10 +9,10 @@
 }
 '''
 
->para mais cores 
+>para mais cores
 
 -https;//colorhunt.co/
- https;//color.adobe.com/pt/creat/color_wheel
+_https://color.adobe.com/pt/creat/color_wheel
 
- ## para fontes 
- https;//fonts.google.com
+## para fontes
+https://fonts.google.com/
